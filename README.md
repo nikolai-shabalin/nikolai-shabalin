@@ -1,4 +1,10 @@
-### Hi there 👋
+# Привет
+Меня зовут Коля. Я что-то делаю для интернета.
+
+## Списки
+- [Все возможные CSS-свойства внедрённые в браузеры](https://nikolai-shabalin.github.io/css-properties/)
+- [Все логические HTML-атрибуты](https://gist.github.com/nikolai-shabalin/2c0b290d61934ddab43c36de803df1b1)
+
 
 <!--
 **nikolai-shabalin/nikolai-shabalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
