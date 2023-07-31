@@ -5,6 +5,11 @@
 - [Все возможные CSS-свойства внедрённые в браузеры](https://nikolai-shabalin.github.io/css-properties/)
 - [Все логические HTML-атрибуты](https://gist.github.com/nikolai-shabalin/2c0b290d61934ddab43c36de803df1b1)
 
+## Библиотеки
+- [Линтер для HTML](https://github.com/htmlacademy/linthtml-config-htmlacademy)
+  - [Список кастомных правил для линтера](https://github.com/htmlacademy/linthtml-rules-htmlacademy/blob/main/docs/list-of-rules.md)
+- [Stylelint-config](https://github.com/htmlacademy/stylelint-config-htmlacademy)
+- [Editorconfig-cli](https://github.com/htmlacademy/editorconfig-cli)
 
 <!--
 **nikolai-shabalin/nikolai-shabalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
