@@ -11,6 +11,9 @@
 - [Stylelint-config](https://github.com/htmlacademy/stylelint-config-htmlacademy)
 - [Editorconfig-cli](https://github.com/htmlacademy/editorconfig-cli)
 
+## Статьи
+- [Пассивные слушатели событий](https://gist.github.com/nikolai-shabalin/638730a5a3df21066c215d58fb835308)
+
 <!--
 **nikolai-shabalin/nikolai-shabalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
