@@ -13,6 +13,7 @@
 
 ## Статьи
 - [Пассивные слушатели событий](https://gist.github.com/nikolai-shabalin/638730a5a3df21066c215d58fb835308)
+- [Рекомендации по использованию автофокуса на полях ввода](https://github.com/htmlacademy/autofocus)
 
 <!--
 **nikolai-shabalin/nikolai-shabalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
