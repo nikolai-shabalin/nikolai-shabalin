@@ -10,6 +10,7 @@
   - [Список кастомных правил для линтера](https://github.com/htmlacademy/linthtml-rules-htmlacademy/blob/main/docs/list-of-rules.md)
 - [Stylelint-config](https://github.com/htmlacademy/stylelint-config-htmlacademy)
 - [Editorconfig-cli](https://github.com/htmlacademy/editorconfig-cli)
+- ["Input save" библиотека, которая сохраняет данные в localStorage](https://github.com/nikolai-shabalin/input-save)
 
 ## Статьи
 - [Пассивные слушатели событий](https://gist.github.com/nikolai-shabalin/638730a5a3df21066c215d58fb835308)
