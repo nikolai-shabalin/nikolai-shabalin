@@ -4,6 +4,7 @@
 ## Списки
 - [Все возможные CSS-свойства внедрённые в браузеры](https://nikolai-shabalin.github.io/css-properties/)
 - [Все логические HTML-атрибуты](https://gist.github.com/nikolai-shabalin/2c0b290d61934ddab43c36de803df1b1)
+- [Статьи про выражения от контейнера](https://github.com/nikolai-shabalin/awesome-container-queries)
 
 ## Библиотеки
 - [Линтер для HTML](https://github.com/htmlacademy/linthtml-config-htmlacademy)
