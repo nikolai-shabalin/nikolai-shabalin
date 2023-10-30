@@ -1,6 +1,8 @@
 # Привет
 Меня зовут Коля. Я что-то делаю для интернета.
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikolai-shabalin&theme=github)
+
 ## Списки
 - [Все возможные CSS-свойства внедрённые в браузеры](https://nikolai-shabalin.github.io/css-properties/)
 - [Все логические HTML-атрибуты](https://gist.github.com/nikolai-shabalin/2c0b290d61934ddab43c36de803df1b1)
