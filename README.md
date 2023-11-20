@@ -14,6 +14,7 @@
 - ["Input save" библиотека, которая сохраняет данные в localStorage](https://github.com/nikolai-shabalin/input-save)
 
 ## Статьи
+- [Анатомия URL](https://gist.github.com/nikolai-shabalin/33044ad95bfb60fee55235fadf1172ec)
 - [Пассивные слушатели событий](https://gist.github.com/nikolai-shabalin/638730a5a3df21066c215d58fb835308)
 - [Рекомендации по использованию автофокуса на полях ввода](https://github.com/htmlacademy/autofocus)
 
