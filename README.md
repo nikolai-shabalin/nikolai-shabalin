@@ -1,7 +1,7 @@
 # Привет
 Меня зовут Коля. Я что-то делаю для интернета.
 
-![](dark-themes.jpg)
+![Коля Шабалин. Разбирается в тёмных темах](dark-themes.jpg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikolai-shabalin&theme=github)
 
