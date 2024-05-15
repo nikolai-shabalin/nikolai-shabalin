@@ -1,6 +1,8 @@
 # Привет
 Меня зовут Коля. Я что-то делаю для интернета.
 
+![](dark-themes.jpg)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikolai-shabalin&theme=github)
 
 ## Списки
@@ -23,18 +25,3 @@
 - [Анатомия URL](https://gist.github.com/nikolai-shabalin/33044ad95bfb60fee55235fadf1172ec)
 - [Пассивные слушатели событий](https://gist.github.com/nikolai-shabalin/638730a5a3df21066c215d58fb835308)
 - [Рекомендации по использованию автофокуса на полях ввода](https://github.com/htmlacademy/autofocus)
-
-<!--
-**nikolai-shabalin/nikolai-shabalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
