@@ -1,9 +1,7 @@
 # Привет
-Меня зовут Коля. Я что-то делаю для интернета.
+Я что-то делаю для интернета.
 
 ![Коля Шабалин. Разбирается в тёмных темах](dark-themes.jpg)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikolai-shabalin&theme=github)
 
 ## Списки
 - [Все элементы, которые можно использовать в `<head>`](https://github.com/htmlacademy/HEAD)
