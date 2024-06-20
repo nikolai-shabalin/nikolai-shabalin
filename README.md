@@ -3,8 +3,6 @@
 
 [!LeetCode Stats](https://leetcard.jacoblin.cool/nikolai-shabalin?theme=light&font=Zen%20Kurenaido)
 
-![Коля Шабалин. Ищет себе работу](papa.jpg)
-
 ## Списки
 - [Все элементы, которые можно использовать в `<head>`](https://github.com/htmlacademy/HEAD)
 - [Все возможные CSS-свойства внедрённые в браузеры](https://nikolai-shabalin.github.io/css-properties/)
