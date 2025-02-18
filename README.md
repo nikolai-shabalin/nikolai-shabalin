@@ -13,6 +13,7 @@
 - [Все логические атрибуты в HTML](https://gist.github.com/nikolai-shabalin/2c0b290d61934ddab43c36de803df1b1)
 - [Статьи про выражения от контейнера](https://github.com/nikolai-shabalin/awesome-container-queries)
 - [Список статей про `:has()`](https://github.com/nikolai-shabalin/-has-)
+- [HTTP-Статусы: краткий справочник](https://github.com/nikolai-shabalin/http-response-status-codes-list)
 
 ## Библиотеки
 - [Линтер для HTML](https://github.com/htmlacademy/linthtml-config-htmlacademy)
