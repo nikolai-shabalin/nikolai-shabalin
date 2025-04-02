@@ -1,8 +1,6 @@
 # Привет
 Я что-то делаю для интернета.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/nikolai-shabalin?theme=light&font=Zen%20Kurenaido)
-
 ![Коля Шабалин. Ищет себе работу](papa.jpg)
 
 ## Списки
