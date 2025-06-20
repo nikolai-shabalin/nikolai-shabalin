@@ -1,11 +1,15 @@
 # Привет
-Я что-то делаю для интернета.
+Я делаю что-то полезное для интернета.
 
-![Коля Шабалин. Ищет себе работу](papa.jpg)
+![Коля Шабалин](papa.jpg)
+
+## Проекты, которыми горжусь
+- [Еженедельный дайджест фронтенд новостей](https://shabalin.online/digest/)
+- [Блог по фронтенд технологиям](https://shabalin.online/)
+- [Все возможные CSS-свойства внедрённые в браузеры](https://nikolai-shabalin.github.io/css-properties/)
 
 ## Списки
 - [Все элементы, которые можно использовать в `<head>`](https://github.com/htmlacademy/HEAD)
-- [Все возможные CSS-свойства внедрённые в браузеры](https://nikolai-shabalin.github.io/css-properties/)
 - [Все возможные HTML-теги, атрибуты и значения в браузерах](https://nikolai-shabalin.github.io/html-tags/)
 - [Все HTML-теги, с разной группировкой](https://github.com/nikolai-shabalin/html-tag-warehouse)
 - [Все логические атрибуты в HTML](https://gist.github.com/nikolai-shabalin/2c0b290d61934ddab43c36de803df1b1)
