@@ -4,6 +4,7 @@
 ![Коля Шабалин](papa.jpg)
 
 ## Проекты, которыми горжусь
+- [Веб-паттерны](https://webpatterns.ru/)
 - [Еженедельный дайджест фронтенд новостей](http://frontend-weekly.ru/)
 - [Блог по фронтенд технологиям](https://shabalin.online/)
 - [Все возможные CSS-свойства внедрённые в браузеры](https://nikolai-shabalin.github.io/css-properties/)
