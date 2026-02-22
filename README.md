@@ -3,18 +3,19 @@
 ![Коля Шабалин](papa.jpg)
 
 ## Проекты, которыми горжусь
+- [Baseline timeline: что можно использовать в проде](https://nikolai-shabalin.github.io/css-baseline-timeline/)
 - [Веб-паттерны](https://webpatterns.ru/)
 - [Еженедельный дайджест фронтенд новостей](http://frontend-weekly.ru/)
 - [Блог по фронтенд технологиям](https://shabalin.online/)
-- [Все возможные CSS-свойства внедрённые в браузеры](https://nikolai-shabalin.github.io/css-properties/)
+- [Версии бразеров необходимых для кода](https://nikolai-shabalin.github.io/css-support-inspector/) 
+
 
 ## Списки
+- [Все возможные CSS-свойства внедрённые в браузеры](https://nikolai-shabalin.github.io/css-properties/)
 - [Все элементы, которые можно использовать в `<head>`](https://github.com/htmlacademy/HEAD)
 - [Все возможные HTML-теги, атрибуты и значения в браузерах](https://nikolai-shabalin.github.io/html-tags/)
 - [Все HTML-теги, с разной группировкой](https://github.com/nikolai-shabalin/html-tag-warehouse)
 - [Все логические атрибуты в HTML](https://gist.github.com/nikolai-shabalin/2c0b290d61934ddab43c36de803df1b1)
-- [Статьи про выражения от контейнера](https://github.com/nikolai-shabalin/awesome-container-queries)
-- [Список статей про `:has()`](https://github.com/nikolai-shabalin/-has-)
 - [HTTP-Статусы: краткий справочник](https://github.com/nikolai-shabalin/http-response-status-codes-list)
 
 ## Библиотеки
